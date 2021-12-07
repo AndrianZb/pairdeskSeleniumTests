@@ -49,7 +49,7 @@ public class SeleniumDemoTest {
     @DisplayName("test_pairdesk")
     void test_pairdesk(TestInfo testInfo) throws Exception {
 
-        driver.get("http://localhost:8080");
+        driver.get("http://localhost:8081");
         driver.manage().window().maximize();
 
         WebElement petclinicHeader = driver.findElement(By.xpath("/html/body/div/div/h1"));
