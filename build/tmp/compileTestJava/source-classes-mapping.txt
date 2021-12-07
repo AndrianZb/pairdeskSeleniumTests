@@ -1,0 +1,6 @@
+com/petclinic/selenium/SeleniumLoginTestHelperTest.java
+ com.petclinic.selenium.SeleniumLoginTestHelperTest
+com/petclinic/selenium/seleniumtest/SeleniumDemoTest.java
+ com.petclinic.selenium.seleniumtest.SeleniumDemoTest
+com/petclinic/selenium/SeleniumLoginTestHelper.java
+ com.petclinic.selenium.SeleniumLoginTestHelper
